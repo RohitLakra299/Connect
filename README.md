@@ -1,7 +1,7 @@
 
 # Connect
 
-A social media media application build with firebase.
+A social media media application built with firebase.
 <br/>
 Get application [Link](https://drive.google.com/file/d/1w8HuipPnE_uw5evygCVbhPq6aQLac1W5/view?usp=sharing)
 
